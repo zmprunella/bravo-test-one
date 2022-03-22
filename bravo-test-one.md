@@ -1,6 +1,6 @@
 # Intro to github
 
-## Brove gihub 
+## Brave github
 
 ### Git Process
 - Create a repo
