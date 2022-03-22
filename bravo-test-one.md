@@ -6,8 +6,8 @@
 
 - Create a repo
 - Clone repo - there is a repo on github and you need it locally
-  -local/locally - on your computer
-  -remote - cloud, github , on the internet
+  - local/locally - on your computer
+  - remote - cloud, github , on the internet
 - Make a file - touch a new file
   - make sure you are inside the repo
   - Naming conventions - lowercase, no spaces
@@ -23,10 +23,10 @@
 
 ### Useful Terminal commands
 
-ls - lists all the content of the current directory
-touch - makes a new file
-cd <name> - changes directory into another nested folder/directory
-cd .. - moves back one level, moves closer to the root
+- ls - lists all the content of the current directory
+- touch - makes a new file
+- cd <name> - changes directory into another nested folder/directory
+- cd .. - moves back one level, moves closer to the root
 
 ### Best Git command ever
 
@@ -42,6 +42,6 @@ git status
   - everybody
 
 ### What to do if you are stuck
--Make sure you have all your resources and Documentation handy
--ask questions. if you are alone
--find another place to ask questions
+- Make sure you have all your resources and Documentation handy
+- ask questions. if you are alone
+- find another place to ask questions
