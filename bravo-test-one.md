@@ -40,3 +40,8 @@ git status
 - LEARN Slack chennels
   - 2022b
   - everybody
+
+### What to do if you are stuck
+-Make sure you have all your resources and Documentation handy
+-ask questions. if you are alone
+-find another place to ask questions
