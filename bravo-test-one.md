@@ -8,13 +8,13 @@ testing
   -remote - cloud, github , on the internet
 - Make a file - touch a new file
   - make sure you are inside the repo
-  - NAming conventios - lowercase, no spaces
+  - Naming conventions - lowercase, no spaces
   - extension - what file type, what language
   - .md - markdown
 - added some content
 - added PAT authentication
 - local --> remote
   - git status
-  - git add.
+  - git add .
   - git commit -m "message" (goal of message: human communication)
-  - git push origin main  (not always there) 
+  - git push origin main  (not always there)
