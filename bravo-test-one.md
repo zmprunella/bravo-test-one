@@ -3,6 +3,7 @@
 ## Brave github
 
 ### Git Process
+
 - Create a repo
 - Clone repo - there is a repo on github and you need it locally
   -local/locally - on your computer
@@ -30,3 +31,12 @@ cd .. - moves back one level, moves closer to the root
 ### Best Git command ever
 
 git status
+
+
+### Documentation and Resources
+- Brace Syllabus
+- Bravoe classroom Google Drive
+- Cohortmates
+- LEARN Slack chennels
+  - 2022b
+  - everybody
