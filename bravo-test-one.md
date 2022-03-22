@@ -1,5 +1,6 @@
-testing
+# Intro to github
 
+## Brove gihub 
 
 ### Git Process
 - Create a repo
@@ -19,9 +20,7 @@ testing
   - git commit -m "message" (goal of message: human communication)
   - git push origin main  (not always there)
 
-
 ### Useful Terminal commands
-
 
 ls - lists all the content of the current directory
 touch - makes a new file
